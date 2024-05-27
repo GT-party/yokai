@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+@import url(https://db.onlinewebfonts.com/c/12420e8c141ca7c3dff41de2d59df13e?family=Beaufort+for+LOL+Bold);
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+
+.first{
+    font-family: "Beaufort for LOL", sans-serif;
+    color: rgb(200, 170, 110);
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 35px;
+    font-style: italic;
+    text-transform: uppercase;
+    padding-top:200px;
+    padding-left: 150px;
+    padding-bottom:1px;
+    font-style: italic;
+}
+.two{
+    color: white;
+    font-size: 115px;
+    padding-left: 285px;
+    margin: -150px;
+    font-family: "Beaufort for LOL Bold";
+    font-style: italic;
+}
+.text{
+    color: white;
+    font-size: 22px;
+    word-wrap: break-word;
+    padding-left: 147px;
+    padding-top: 40px;
+    margin-right: 1000px;
+    
+}
+.abil{
+    color: white;
+    font-size: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color:rgb(200, 170, 110) ;
+    padding: 5px;
+    margin: 10px;
+    margin-right: 1650px;
+    margin-left:147px;
+    background-color:rgb(10, 20, 40);
+    opacity: 0.7;
+    text-align: center;
+}
+.rut{
+    background-image:url(https://www.leagueoflegends.com/_next/static/node_modules/@riotgames/blades-ui/dist/skins/common/assets/roleFighter.svg);
+    background-color:rgb(200, 170, 110);
+    height: 32px;
+    width: 34px;
+}
