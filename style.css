@@ -78,7 +78,7 @@ body{
 }
 .last{
     border-top: 1px solid rgb(200, 170, 110);
-    margin-top: 200px;
+    margin-top: 150px;
     margin-left: 120px;
     width: 800px;
     display: flex;
@@ -89,4 +89,74 @@ body{
 .norm{
     color: darkgray;
     opacity: 0.8;
+}
+.top{
+    
+    border: 3px solid rgb(0, 0, 0);
+    height: 60px;
+    margin: -9px;
+    background-color: black;
+    display: flex;
+    font-family: "Beaufort for LOL Bold"
+}
+.bottom{
+    margin-top: 20px;
+    padding-left: 70px;
+    color: white;
+    text-decoration: none;
+
+}
+.img{
+    width: 50px;
+    height: 50px;
+}
+.textq{
+    text-decoration: none;
+    position: relative;
+    color: white;
+    font-size: 13px;
+}
+.textq:hover{
+    color:red
+}
+.lupa{
+    padding: 4px;
+}
+.right{
+    border: 2px solid rgb(49, 48, 48);
+    border-radius: 12px;
+    width: 40px;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 8px;
+    background-color: rgb(49, 48, 48);
+}
+.earth{
+    margin-left: 13px;
+    margin-top: 20px;
+}
+.vhod{
+    border: 2px solid rgb(49, 48, 48);
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 8px;
+    background-color: rgb(49, 48, 48);
+    color:white;
+    text-align: center;
+    font-size: 26px;
+}
+.center{
+    border: 2px solid rgb(120, 227, 241);
+    border-radius: 20px;
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 8px;
+    background-color: rgb(120, 227, 241);
+    color:black;
+    text-align: center;
+    font-size: 26px;
+
 }
