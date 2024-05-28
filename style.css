@@ -43,8 +43,10 @@ body{
     border: solid;
     border-color:rgb(200, 170, 110) ;
     height: 125px;
-    width: 125px;
+    width: 130px;
     margin-left: 145px;
+    border-width: 1px;
+    
 }
 
 
@@ -52,9 +54,39 @@ body{
     background-color: rgb(10, 20, 40);
     margin: 12px;
     height: 100px;
-    opacity: 0.5;
+    opacity: 0.85;
 }
 .icons{
-    padding: 10px;
+    position:relative;
+    padding: 14px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    
+}
+.wor{
+    display: flex;
 }
 
+.org{
+    margin-left: -120px;
+}
+.tor{
+    color:rgb(200, 170, 110);
+    margin-top: 0px;
+    font-size: 14px;
+}
+.last{
+    border-top: 1px solid rgb(200, 170, 110);
+    margin-top: 200px;
+    margin-left: 120px;
+    width: 800px;
+    display: flex;
+    color:white;
+    font-size: 10px;
+
+} 
+.norm{
+    color: darkgray;
+    opacity: 0.8;
+}
