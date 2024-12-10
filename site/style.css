@@ -103,7 +103,6 @@ body{
 }
 .bottom{
     margin-top: 20px;
-    padding-left: 70px;
     color: white;
     text-decoration: none;
 
@@ -113,6 +112,7 @@ body{
     height: 50px;
 }
 .textq{
+    padding-left: 50px;
     text-decoration: none;
     position: relative;
     color: white;
